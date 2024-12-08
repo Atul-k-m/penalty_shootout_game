@@ -2,6 +2,10 @@
 
 An advanced penalty shootout game that uses machine learning to create realistic goalkeeper behavior and shot predictions.
 
+<p align="center">
+    <img src="assets/game_preview.png" alt="Penalty Shootout Game Preview">
+</p>
+
 ## Features
 
 - Real-time penalty shooting simulation
@@ -62,4 +66,3 @@ python game_gui.py
 - tkinter support
 - Minimum 4GB RAM
 - Screen resolution: 1024x768 or higher
-
